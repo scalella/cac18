@@ -2,11 +2,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #fafafa;
+            background-color: #000000;
+            color: #ffffff;
         }
         header {
-            background-color: #ffffff;
-            border-bottom: 1px solid #dbdbdb;
+            background-color: #000000;
+            border-bottom: 1px solid #3a3a3a;
             padding: 10px 20px;
             text-align: center;
             
@@ -28,16 +29,16 @@
             max-width: 400px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #ffffff;
-            border: 1px solid #dbdbdb;
+            background-color: #000000;
+            border: 1px solid #1d1d1d;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         .post-feed {
             padding: 20px;
-            border: 1px solid #dbdbdb;
+            border: 1px solid #000000;
             border-radius: 5px;
             margin-bottom: 20px;
-            background-color: #ffffff;
+            background-color: #000000;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         .post-feed img {
@@ -53,7 +54,7 @@
         }
         .post-feed button {
             padding: 8px 16px;
-            background-color: #007bff;
+            background-color: #6e16c1;
             color: #ffffff;
             border: none;
             border-radius: 5px;
@@ -61,7 +62,7 @@
         }
         footer {
             text-align: center;
-            background-color: #ffffff;
+            background-color: #6e16c1;
             border-top: 1px solid #dbdbdb;
             padding: 10px 0;
             
