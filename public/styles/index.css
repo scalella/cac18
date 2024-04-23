@@ -7,7 +7,7 @@
         }
         header {
             background-color: #000000;
-            border-bottom: 1px solid #3a3a3a;
+            border-bottom: 1px solid #00ff0d;
             padding: 10px 20px;
             text-align: center;
             
@@ -23,16 +23,16 @@
         }
         header nav ul li a {
             text-decoration: none;
-            color: #262626;
+            color: #ffffff;
         }
         main {
             max-width: 400px;
             margin: 20px auto;
             padding: 20px;
             background-color: #000000;
-            border: 1px solid #6e16c1;
+            border: 1px solid #00ff0d;
             border-radius: 18px;
-            box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+            box-shadow: 0 2px 4px rgba(225, 0, 255, 0.1);
         }
         .post-feed {
             padding: 20px;
@@ -40,7 +40,7 @@
             border-radius: 15px;
             margin-bottom: 15px;
             background-color: #000000;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 4px rgba(255, 0, 238, 0.1);
         }
         .post-feed img {
             width: 100%;
@@ -58,13 +58,13 @@
             background-color: #6e16c1;
             color: #ffffff;
             border: none;
-            border-radius: 5px;
+            border-radius: 11px;
             cursor: pointer;
         }
         footer {
             text-align: center;
             background-color: #6e16c1;
-            border-top: 1px solid #dbdbdb;
+            border-top: 1px solid #00ff0d;
             padding: 10px 0;
             
             bottom: 0;
