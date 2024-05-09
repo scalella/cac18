@@ -6,10 +6,10 @@ Trabajo practico del grupo 18 para el curso de fullstack de python de CodoaCodo.
 
 # Integrantes
 
-Juan Manuel Chavez
-Nicolas Gomez
-Rafael Nicolas Suarez
-Martin Scalella
+* Juan Manuel Chavez
+* Nicolas Gomez
+* Rafael Nicolas Suarez
+* Martin Scalella
 
 
 ## Links del proyecto
