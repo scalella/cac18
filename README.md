@@ -1,6 +1,7 @@
 # CodeGram </>
 
- Proyecto de red social inspirada en instagram y twitter.
+Proyecto de red social inspirado en instagram y twitter.
+
 Trabajo practico del grupo 18 para el curso de fullstack de python de CodoaCodo.
 
 
@@ -11,6 +12,8 @@ Trabajo practico del grupo 18 para el curso de fullstack de python de CodoaCodo.
 * Rafael Nicolas Suarez
 * Martin Scalella
 
+# Etapa 1
+Diseñamos el frontend de 4 vistas en HTML, estiladas con CSS y validadas con JavaScript.
 
 ## Links del proyecto
 
