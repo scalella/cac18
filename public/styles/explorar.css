@@ -20,14 +20,25 @@ body {
 }
 
 header {
-    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background-color: #000000;
-    padding: 20px 20px;
+    border-bottom: 1px solid rgb(49, 49, 133);
+    padding: 10px 20px;
     text-align: center;
     font-family: jaro;
     font-size: 27px;
-}
 
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: auto;
+    justify-items: auto;
+    width: 210px;
+}
 .perfiles {
     display: flex;
     max-width: 800px;

@@ -15,6 +15,10 @@ body {
     }
 
 header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background-color: #000000;
     border-bottom: 1px solid rgb(49, 49, 133);
     padding: 10px 20px;
@@ -23,7 +27,13 @@ header {
     font-size: 27px;
 
 }
-
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: auto;
+    justify-items: auto;
+    width: 210px;
+}
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -89,9 +99,12 @@ main {
 /* PIE DE PAGINA */
 
 footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
     text-align: center;
     background-color: #8a51c0;
-    padding: 10px 0;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -109,8 +122,8 @@ footer a {
 
 .social-icons span {
 	border-radius: 50%;
-	width: 2rem;
-	height: 2rem;
+	width: 1.5rem;
+	height: 1.5rem;
     display: flex;
 	align-items: center;
 	justify-content: center;
@@ -118,7 +131,7 @@ footer a {
 
 .social-icons span i {
 	color: #fff;
-	font-size: 1.2rem;
+	font-size: .8rem;
 }
 
 .facebook {
