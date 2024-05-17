@@ -33,6 +33,11 @@ header {
     align-items: auto;
     justify-items: auto;
     width: 210px;
+    transition: all 950ms;
+}
+.logo:hover {
+    transform: scale(0.7);
+    transform: rotate(720deg);
 }
 header nav ul {
     list-style-type: none;
